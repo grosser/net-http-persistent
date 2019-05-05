@@ -54,7 +54,7 @@ including SSL connection verification, header handling and tunable options.
 
 == INSTALL:
 
-  gem install net-http-persistent
+    gem install net-http-persistent
 
 == LICENSE:
 
