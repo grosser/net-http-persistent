@@ -1,6 +1,10 @@
-= net-http-persistent
+= net-http-persistent-retry
 
+Fork of
 * https://github.com/drbrain/net-http-persistent
+
+without retries see https://github.com/drbrain/net-http-persistent/pull/100
+and added gemspec
 
 == DESCRIPTION:
 
